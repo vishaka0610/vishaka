@@ -2,3 +2,7 @@ Vishakha
 hello world
 my name is vishakha
 i am in 2nd year
+<<<<<<< Updated upstream
+hellooo
+=======
+>>>>>>> Stashed changes
